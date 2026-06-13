@@ -1,0 +1,2 @@
+"""Uygulama paketinin kök modülü."""
+
